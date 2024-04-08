@@ -1,0 +1,56 @@
+15:35:29.859 [main] INFO  testBase.BaseClass - Navigated to NewBikes
+15:35:36.458 [main] INFO  testBase.BaseClass - Clicked on Upcoming bikes
+15:35:38.038 [main] INFO  testBase.BaseClass - Honda as manufacturer is selected 
+15:37:06.861 [main] INFO  testBase.BaseClass - Navigated to Home Page
+15:37:07.186 [main] INFO  testBase.BaseClass - Trying to login in google
+15:37:08.099 [main] INFO  testBase.BaseClass - Switching Driver to Google
+15:37:11.518 [main] INFO  testBase.BaseClass - Entering invalid credentials
+15:37:51.627 [main] INFO  testBase.BaseClass - Entering invalid credentials
+15:57:39.904 [main] INFO  testBase.BaseClass - Navigated to NewBikes
+15:57:42.141 [main] INFO  testBase.BaseClass - Clicked on Upcoming bikes
+15:57:43.150 [main] INFO  testBase.BaseClass - Honda as manufacturer is selected 
+15:58:50.210 [main] INFO  testBase.BaseClass - Navigated to NewBikes
+15:58:56.327 [main] INFO  testBase.BaseClass - Clicked on Upcoming bikes
+15:58:57.570 [main] INFO  testBase.BaseClass - Honda as manufacturer is selected 
+16:00:22.509 [main] INFO  testBase.BaseClass - Navigated to Home Page
+16:00:22.831 [main] INFO  testBase.BaseClass - Trying to login in google
+16:00:23.742 [main] INFO  testBase.BaseClass - Switching Driver to Google
+16:00:25.372 [main] INFO  testBase.BaseClass - Entering invalid credentials
+16:01:05.501 [main] INFO  testBase.BaseClass - Entering invalid credentials
+16:04:35.947 [main] INFO  testBase.BaseClass - Navigated to NewBikes
+16:04:38.590 [main] INFO  testBase.BaseClass - Clicked on Upcoming bikes
+16:04:39.738 [main] INFO  testBase.BaseClass - Honda as manufacturer is selected 
+16:06:04.707 [main] INFO  testBase.BaseClass - Navigated to Home Page
+16:06:05.056 [main] INFO  testBase.BaseClass - Trying to login in google
+16:06:06.118 [main] INFO  testBase.BaseClass - Switching Driver to Google
+16:06:08.583 [main] INFO  testBase.BaseClass - Entering invalid credentials
+16:06:48.715 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:06:48.718 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:06:48.719 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:06:51.114 [main] INFO  testBase.BaseClass - Entering invalid credentials
+16:07:31.127 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:07:31.128 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:07:31.128 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:40:50.362 [main] INFO  testBase.BaseClass - Navigated to NewBikes
+16:40:53.450 [main] INFO  testBase.BaseClass - Clicked on Upcoming bikes
+16:40:54.592 [main] INFO  testBase.BaseClass - Honda as manufacturer is selected 
+16:41:03.525 [main] INFO  testBase.BaseClass - Navigated to Home Page
+16:41:03.926 [main] INFO  testBase.BaseClass - Trying to login in google
+16:41:04.938 [main] INFO  testBase.BaseClass - Switching Driver to Google
+16:41:06.423 [main] INFO  testBase.BaseClass - Entering invalid credentials
+16:41:46.590 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:41:46.593 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:41:46.594 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:41:48.207 [main] INFO  testBase.BaseClass - Entering invalid credentials
+16:42:28.230 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:42:28.231 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:42:28.231 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:45:42.350 [main] INFO  testBase.BaseClass - Navigated to NewBikes
+16:45:45.618 [main] INFO  testBase.BaseClass - Clicked on Upcoming bikes
+16:45:46.835 [main] INFO  testBase.BaseClass - Honda as manufacturer is selected 
+16:45:56.592 [main] INFO  testBase.BaseClass - Navigated to Home Page
+16:45:56.930 [main] INFO  testBase.BaseClass - Trying to login in google
+16:45:57.741 [main] INFO  testBase.BaseClass - Switching Driver to Google
+16:45:59.128 [main] INFO  testBase.BaseClass - Entering invalid credentials
+16:46:39.248 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:46:39.252 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
